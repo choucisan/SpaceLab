@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://choucisan.github.io/collections/spacelab/"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
-  <a href="https://www.xiaohongshu.com/explore/6a159cbe000000003601ea16"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
+  <a href="https://www.xiaohongshu.com/explore/6a159cbe000000003601ea16?xsec_token=ABm00kBLxlU2g_ZSyr9goakHED0ug7S0ytBcDTqdh19Rg"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
   <a href="https://astro.build"><img src="https://img.shields.io/badge/Built%20with-Astro-ff69b4?style=for-the-badge&logo=astro" alt="Built with Astro"></a>
   <a href="https://www.mapbox.com"><img src="https://img.shields.io/badge/Globe-Mapbox-blue?style=for-the-badge&logo=mapbox" alt="Mapbox"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"></a>
